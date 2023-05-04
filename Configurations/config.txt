@@ -1,0 +1,6 @@
+config
+    BSize 30 20
+        Organ FOX 40
+        Organ WOLF 4
+        Organ LAMP 2
+        Organ ANTELOPE 5
